@@ -10,7 +10,7 @@ image = cv2.imread(args["image"])
 cv2.imshow("Orignal", image)
 
 image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-cv2.imshow("Image", image)
+cv2.imshow("Grayscale Image", image)
 
 blurred = cv2.GaussianBlur(image, (5, 5), 0)
 cv2.imshow("Blurred Image", blurred)
