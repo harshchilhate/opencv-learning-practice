@@ -35,33 +35,23 @@ Each file represent a specific concept.
 
 ## 📁 Project Structure
 
-- images/   #contains all the input images.
-     |
-     |- trex.png
-     |- beach.jpeg
-     |- ocean.webp
-     |- coins.jpeg
-
-- adaptive_thresholding.py
-- arithmetic.py
-- bitwise.py
-- blurring.py
-- canny.py
-- color_histogram.py
-- color_spaces.py
-- counting_coins.py
-- crop.py
-- drawing.py
-- equalize.py
-- flipping.py
-- getting_and_setting.py
-- grayscale_histogram.py
-- histogram_with_mask.py
-- mask.py
-- otsu_and_ridler.py
-- resize.py
-- rotation.py
-- translation.py
+├── images/ #contains all the input images.
+├── imutils/
+├── load_display_save.py
+├── drawing.py
+├── resize.py
+├── rotation.py
+├── translation.py
+├── bitwise.py
+├── mask.py
+├── histogram_with_mask.py
+├── canny.py
+├── blurring.py
+├── thresholding.py
+├── contours.py
+├── requirements.txt
+├── README.md
+└── .gitignore
 ...
 
 
