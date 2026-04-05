@@ -34,7 +34,7 @@ Each file represent a specific concept.
 ---
 
 ## 📁 Project Structure
-
+```
 ├── images/ #contains all the input images.
 ├── imutils/
 ├── load_display_save.py
@@ -54,7 +54,7 @@ Each file represent a specific concept.
 └── .gitignore
 ...
 
-
+```
 ---
 ## ▶️ How to Run
 
