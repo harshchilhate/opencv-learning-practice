@@ -35,24 +35,19 @@ Each file represent a specific concept.
 
 ## 📁 Project Structure
 ```
-├── images/ #contains all the input images.
-├── imutils/
-├── load_display_save.py
-├── drawing.py
-├── resize.py
-├── rotation.py
-├── translation.py
-├── bitwise.py
-├── mask.py
-├── histogram_with_mask.py
-├── canny.py
-├── blurring.py
-├── thresholding.py
-├── contours.py
-├── requirements.txt
+├── 1. Loading, Displaying AND Saving/
+├── 2. Image Basics/
+├── 3. Drawing/
+├── 4. Image Processing/
+├── 5. Histograms/
+├── 6. Smoothing and Blurring/
+├── 7. Thresholding/
+├── 8. Gradients AND Edge Detection/
+├── 9. Contours/
+│
+├── .gitignore
 ├── README.md
-└── .gitignore
-...
+├── requirements.txt
 
 ```
 ---
